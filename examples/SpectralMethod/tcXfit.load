@@ -1,0 +1,2 @@
+ fdot 2e-3 0 0 0 * 0 0 0 * P * * * * 0 * * * 0 t 101 incs 101
+ fdot -2e-3 0 0 0 * 0 0 0 * P * * * * 0 * * * 0 t 89 incs 89 dropguessing
