@@ -2,6 +2,7 @@
 # -*- coding: UTF-8 -*-
 # DAMASK plastic_phenopowerlaw 
 # material parameters fitting
+# hzhou@student.ethz.ch
 
 import os
 import numpy as np
